@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+    <category>
+        <pattern>*</pattern>
+        <template>No entendi, puede ser mas especifico</template>
+    </category>
+    
+    
+    <category>
+        <pattern>HOLA</pattern>
+        <template>
+            ¡Hola! Soy Ropa1, tu asistente de moda. ¿Qué tipo de ropa buscas hoy? (ej: camisetas, pantalones, vestidos)
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>ADIOS</pattern>
+        <template>
+            ¡Gracias por visitarnos! Espero haberte ayudado. Vuelve pronto.
+        </template>
+    </category>
+    
+
+    <category>
+        <pattern>QUÉ ROPA TIENEN</pattern>
+        <template>
+            Tenemos: camisetas, pantalones, vestidos, sudaderas y zapatos. ¿Te interesa algo en especial?
+        </template>
+    </category>
+
+    <category>
+        <pattern>CUÁNTO CUESTAN LOS PANTS</pattern>
+        <template>
+            Los pantalones cuestan entre $20 y $50, según el estilo. ¿Quieres jeans, chinos o deportivos?
+        </template>
+    </category>
+
+    <category>
+        <pattern>TIENEN TALLA GRANDE</pattern>
+        <template>
+            Sí, tenemos tallas grandes (XL y XXL). ¿Buscas camisetas, pantalones u otra cosa?
+        </template>
+    </category>
+
+    <category>
+        <pattern>QUÉ COLORES TIENEN</pattern>
+        <template>
+            Los colores disponibles son: negro, blanco, azul, rojo y verde. ¿Para qué prenda?
+        </template>
+    </category>
+
+    <category>
+        <pattern>QUÉ ME RECOMIENDAS</pattern>
+        <template>
+            Te recomiendo nuestros jeans ajustados o camisetas básicas. Son los más vendidos. ¿Quieres ver opciones?
+        </template>
+    </category>
+
+
