@@ -1,7 +1,10 @@
 ## I'm Eduardo García, 
 Full-Stack Developer and Systems Engineering student focused on building scalable and innovative web solutions.
+
 -I develop full-stack applications using React, TypeScript, Tailwind CSS, Node.js, and Django
+
 -I design modular, maintainable software architectures backed by solid engineering principles
+
 -I’m especially interested in applying Artificial Intelligence and Blockchain to solve complex, real-world problems
 
 
